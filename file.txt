@@ -1,1 +1,3 @@
 Something inside the file.
+
+Here's something else inside this text file (along with two new lines) just to see that it all commits and pushes correctly!
